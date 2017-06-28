@@ -1,0 +1,2 @@
+# Firebase_Authentication_Facebook_Sample
+FirebaseのFacebook Authenticationを用いたログインです． Qiitaの記事に書きます． 少々お待ちください．
