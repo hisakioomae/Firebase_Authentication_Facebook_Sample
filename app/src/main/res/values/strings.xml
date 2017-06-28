@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Facebook_Authentication_Sample</string>
+    <string name="facebook_app_id">249109392256753</string>
+    <string name="fb_login_protocol_scheme">fb249109392256753</string>
+    <string name="dialog_close">dialog_close</string>
+</resources>
